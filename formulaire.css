@@ -1,0 +1,120 @@
+/* Styles pour le formulaire */
+.sr-only { 
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.scroll-to-form-btn {
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+.add-music-form {
+  background: #292929;
+  border-radius: 15px;
+  padding: 20px;
+  margin-bottom: 30px;
+  width: 100%;
+  max-width: 300px; 
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6);
+  margin-top: 0; 
+  color: #f8fafc;
+}
+
+.add-music-form h3 {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  color: #e0e0e0;
+}
+
+.add-music-form p {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  color: #b0b0b0;
+  margin-bottom: 20px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.add-music-form label {
+  display: block;
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #d1d5db;
+  margin-bottom: 8px;
+}
+
+.add-music-form input,
+.add-music-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: none;
+  border-radius: 8px;
+  background: #1e293b;
+  color: #f8fafc;
+  font-size: 1rem;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.add-music-form small {
+  display: block;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.875rem;
+  color: #9ca3af;
+  margin-top: -5px;
+  margin-bottom: 15px;
+  line-height: 1.4; 
+}
+
+.add-music-form button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  background: #3b82f6;
+  color: #f8fafc;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.add-music-form button:hover {
+  background: #2563eb;
+}
+
+.form-preview-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.add-music-form {
+  flex: 1;
+  margin-right: 20px; 
+}
+
+.dynamic-music-list {
+  flex: 1;
+  max-width: 300px; 
+}
+.link-image-dynamic{
+  width: 75px;
+  height: auto;
+  object-fit: contain; /* Assure que l'image est contenue dans le cadre sans être déformée */
+}

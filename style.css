@@ -1,0 +1,246 @@
+body {
+  background-color: #1e293b;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #e0e0e0;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  color: #e0e0e0;
+  font-size: 3.5rem;
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-family: "Poppins", sans-serif;
+  color: #e0e0e0;
+  margin: 15px 0;
+  font-size: 1.8rem;
+}
+
+.liste-musiques {
+  width: 90%;
+  max-width: 1100px;
+  background: #292929;
+  border-radius: 15px;
+  padding: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  margin-bottom: 30px;
+}
+
+.avis {
+  font-family: "Merriweather", serif;
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #cccccc;
+  margin-top: 15px;
+}
+
+.artiste {
+  font-family: "Oswald", sans-serif;
+  color: #d6d6d6;
+}
+
+audio {
+  display: none;
+}
+
+.play {
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #333333;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  margin-top: 15px;
+  align-self: center;
+}
+
+.play:hover {
+  background-color: #444444;
+}
+
+.music-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.avis-container {
+  margin-top: 0;
+}
+
+.music-info {
+  text-align: center;
+  max-width: 600px;
+}
+
+.link-container {
+  display: flex;
+  justify-content: center; /* Centre les liens horizontalement */
+  gap: 20px; /* Espacement entre les liens */
+  margin-top: 15px; /* Espacement entre les liens et bouton */
+}
+  
+
+.link-image,
+.link2-image,
+.link3-image {
+  width: 75px;
+  height: auto;
+}
+
+/* Titre de la musique */
+.title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #f0f0f0;
+}
+
+/*opinion de la musique */
+.opinion {
+  font-size: 1.125rem;
+  color: #cccccc;
+  margin-top: 10px;
+}
+
+/* Image de la musique */
+.image {
+  max-width: 100%;
+  max-height: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.image:hover {
+  transform: scale(1.1); /* Augmente la taille de l'image lors du passage de la souris */
+  filter: brightness(1.2); /* Augmente la luminosité de l'image lors du passage de la souris */
+}
+/* Bouton de lecture */
+button {
+  background: linear-gradient(120deg, #333333, #555555);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: linear-gradient(120deg, #444444, #666666);
+}
+/* Bouton du Formulaire */
+.scroll-to-form-btn {
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+/* Bouton retour haut de page */
+.back-to-top {
+  font-size: 1.4rem;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #3b82f6;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, background 0.3s ease;
+  z-index: 1000;
+}
+
+.back-to-top:hover {
+  background: linear-gradient(120deg, #2563eb, #1d4ed8);
+  transform: scale(1.2);
+}
+
+.back-to-top.hidden {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+/* Preview formulaire */
+.form-preview-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.add-music-form {
+  flex: 1;
+  max-width: 45%;
+  margin-right: 20px;
+}
+
+.dynamic-display {
+  flex: 1;
+  max-width: 45%;
+  margin-left: 20px;
+}
+
+
+/* Pied de page */
+.footer-container {
+  background: linear-gradient(120deg, #1e293b, #292929);
+  color: #f8fafc;
+  padding: 20px;
+  text-align: center;
+  border-top: 3px solid #3b82f6;
+  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.2);
+  font-family: "Poppins", sans-serif;
+}
+
+.footer-nav {
+  margin-top: 15px;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  margin-right: 30px; 
+}
+details {
+  background-color: #292929;
+  color: #f8fafc;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+summary {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #f8fafc;
+}
+
+details p {
+  margin-top: 10px;
+}
