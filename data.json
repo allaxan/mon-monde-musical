@@ -1,13 +1,13 @@
 [
     {
-        "title": "Remember Me - d4vd",
-        "opinion": "Cette musique me touche. Elle fait partie de la bande originale de la saison 2 d'Arcane une série tirée du jeu League Of Legends, le passage où cette musique passe dans la série me donne les larmes aux yeux lors du visionnage de l'épisode présent car elle est magnifiquement bien utilisé..",
+        "title": "Ma meilleur ennemie - Stromae, Pomme Feat. Coldplay",
+        "opinion": "Cette musique est pour moi est vraiment belle, d'autant plus comment elle est utilisée dans la série Arcane, elle est touchante. Surtout que dans cette série la musique est utilisé sur un plan avec 4 images par seconde, ce qui rend la scène encore plus belle.",
         "image": "./image/arcane.jpg",
-        "audio": "./musique/rememberme-d4vd.mp3",
+        "audio": "./musique/ma-meilleure-ennemie.mp3",
         "droit": "Tous droits réservés © Riot Games",
-        "link": "https://music.apple.com/fr/album/remember-me-from-the-series-arcane-league-of-legends/1767031657?i=1767031956",
-        "link2": "https://open.spotify.com/intl-fr/track/5oi8dkse5YTnTSWm3XgMET",
-        "link3": "https://deezer.page.link/eCJWG8fEDSGeypJc6"
+        "link": "https://music.apple.com/fr/album/ma-meilleure-ennemie-from-the-series-arcane-league/1803590047?i=1803590050",
+        "link2": "https://open.spotify.com/intl-fr/track/1ZHvGQZNz6HLbxhAtu7pin?si=e3e4840335804dd5",
+        "link3": "https://link.deezer.com/s/31kaZNXdlFWqPGIzQSeH0"
     },
     {
         "title": "Tandem - Bigflo & Oli",
@@ -20,18 +20,8 @@
         "link3": "https://deezer.page.link/8sBPegdg5fdjyv8P7"
     },
     {
-        "title": "Unfair-Stray Kids (Felix)",
-        "opinion": "Cette musique est incroyable, l'instrumental est poignant, les paroles tout autant, Felix qui est un membre du groupe Stray Kids que j'affectionne particulièrement depuis peu de temps. Les paroles sont un peu triste mais elles sont vraiment touchante, elle parle de l'histoire de la Belle et la Bête. Felix a différentes voix dans cette musique et elles sont parfaitement bien utilisée.",
-        "image": "./image/hop-skz.jpg",         
-        "audio": "./musique/unfair-felix.mp3",
-        "droit": "Tous droits réservés  © 2024 JYP Entertainement",
-        "link": "https://music.apple.com/fr/album/unfair-felix/1780411692?i=1780412490",
-        "link2": "https://open.spotify.com/intl-fr/track/15fpZUMOQD9ONTjxITFXFT?si=9d54b9cf76154922",
-        "link3": "https://deezer.page.link/bUAFuTxea48xUo816"
-    },
-    {
         "title": "S-Class - Stray Kids",
-        "opinion": "Coup de cœur total ! J'ai découvert cette musique ou plutôt ce groupe cet été, avant j'étais quelqu'un qui détestait la k-pop et depuis cet été j'adore !! Et depuis j'en écoute tout les jours au point où ils sont top 2 de mes écoutes de l'année. Je vais aller les voirs avec mon camarade Jimmy du TP-B en juillet au Stade de France, on a vraiment hâte ! ",
+        "opinion": "Coup de cœur total ! J'ai découvert cette musique ou plutôt ce groupe cet été, avant j'étais quelqu'un qui détestait la k-pop et depuis cet été j'adore !! Et depuis j'en écoute tout les jours au point où ils sont top 2 de mes écoutes de l'année. J'ai été les voirs en juillet avec mon bestie Jimmy ! ",
         "image": "./image/5-STAR.jpg",
         "audio": "./musique/s-class_straykids.mp3",
         "droit": "Tous droits réservés  © 2024 JYP Entertainement",
@@ -48,5 +38,15 @@
         "link": "https://music.apple.com/fr/album/jirai-pas-voir-un-psy/1752884967?i=1752885619",
         "link2": "https://open.spotify.com/intl-fr/track/1W26qte2Zepm5jKbDSTSf6",
         "link3": "https://deezer.page.link/b3GUoKmgVMZWRWFA7"
+    },
+    {
+        "title": "0801 - Stray Kids",
+        "opinion": "J'aime beaucoup cette musique, j'accorde vraiment de l'importance a l'instrumental dans une musique et celle ci est vraiment bien, les variations de voix des différents membres, un seul mot : Parfait !",
+        "image": "./image/ceremony.png",
+        "audio": "./musique/0801.mp3",
+        "droit": "Tous droits réservés  © 2025 JYP Entertainement",
+        "link": "https://music.apple.com/fr/album/0801/1827247172?i=1827247292",
+        "link2": "https://open.spotify.com/intl-fr/track/1IyV9GwfMVEVMymw8N4nsI?si=ea5488b26aa64410",
+        "link3": "https://deezer.page.link/1234567890"
     }
 ]
