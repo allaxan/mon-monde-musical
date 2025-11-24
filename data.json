@@ -1,5 +1,15 @@
 [
     {
+        "title": "Consume - Chase Atlantic feat GOON DES GARCON*",
+        "opinion": "Que dire de cette musique ! Je l'écoute en boucle chaque jour, je me reconnais dans cette musique, d'autant plus qu'elle est de mon groupe favori et que j'ai pu la vivre en vrai en avril 2025, si je devais conseiller une musique de ce groupe ça serai celle ci.",
+        "image": "./image/chaseatlantic-cover.jpg",
+        "audio": "./musique/consumechaseatlantic",
+        "droit": "Tous droits réservés  © 2025 Warner Record Inc.",
+        "link": "https://music.apple.com/fr/album/consume-feat-goon-des-garcons/1290755604?i=1290756770",
+        "link2": "https://open.spotify.com/intl-fr/track/0X2bh8NVQ8svDQIn2AdCbW?si=3fcb70c29e004746",
+        "link3": "https://link.deezer.com/s/31Hdj1QIXbUKuvisnLQ9X"
+    },
+    {
         "title": "Ma meilleur ennemie - Stromae, Pomme Feat. Coldplay",
         "opinion": "Cette musique est pour moi est vraiment belle, d'autant plus comment elle est utilisée dans la série Arcane, elle est touchante. Surtout que dans cette série la musique est utilisé sur un plan avec 4 images par seconde, ce qui rend la scène encore plus belle.",
         "image": "./image/arcane.jpg",
@@ -39,14 +49,5 @@
         "link2": "https://open.spotify.com/intl-fr/track/1W26qte2Zepm5jKbDSTSf6",
         "link3": "https://deezer.page.link/b3GUoKmgVMZWRWFA7"
     },
-    {
-        "title": "0801 - Stray Kids",
-        "opinion": "J'aime beaucoup cette musique, j'accorde vraiment de l'importance a l'instrumental dans une musique et celle ci est vraiment bien, les variations de voix des différents membres, un seul mot : Parfait !",
-        "image": "./image/ceremony.png",
-        "audio": "./musique/0801.mp3",
-        "droit": "Tous droits réservés  © 2025 JYP Entertainement",
-        "link": "https://music.apple.com/fr/album/0801/1827247172?i=1827247292",
-        "link2": "https://open.spotify.com/intl-fr/track/1IyV9GwfMVEVMymw8N4nsI?si=ea5488b26aa64410",
-        "link3": "https://deezer.page.link/1234567890"
-    }
+   
 ]
