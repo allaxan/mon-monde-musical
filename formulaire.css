@@ -128,4 +128,25 @@
   object-fit: contain; /* Assure que l'image est contenue dans le cadre sans être déformée */
 }
 
+/* Responsive pour le formulaire */
+@media (max-width: 768px) {
+  .form-preview-container {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 18px;
+  }
+
+  .add-music-form {
+    max-width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+    padding: 24px;
+  }
+
+  .dynamic-music-list {
+    max-width: 100%;
+    margin-left: 0;
+  }
+}
+
 
