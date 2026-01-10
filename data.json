@@ -21,7 +21,7 @@
     },
     {
         "title": "Tandem - Bigflo & Oli",
-        "opinion": "Bigflo et Oli sont deux frères toulousains qui ont commencé la musique depuis plus de 10 ans maintenant et cette musique me touche tout particulièrement, leur musique a pris une très grande place dans ma vie et m'a beaucoup aidé dans des moments difficiles. Ces deux artistes me lie à ma bestie Elodie car on est nous deux fans de ces frères. On compte aller les voirs en concert prochainement ensemble quand ça sera possible et ils nous ont tout les deux rapprocher grâce a leur musique.",
+        "opinion": "Bigflo et Oli sont deux frères toulousains qui ont commencé la musique depuis plus de 10 ans maintenant et cette musique me touche tout particulièrement, leur musique a pris une très grande place dans ma vie et m'a beaucoup aidé dans des moments difficiles. Ces deux artistes me lie à ma meilleure amie car on est nous deux fans de ces frères. On compte aller les voirs en concert prochainement ensemble quand ça sera possible et ils nous ont tout les deux rapprocher grâce a leur musique.",
         "image": "./image/bigflooli.jpg",
         "audio": "./musique/tandem.mp3",
         "droit": "Tous droits réservés  © 2023 Golden Child",
@@ -31,7 +31,7 @@
     },
     {
         "title": "S-Class - Stray Kids",
-        "opinion": "Coup de cœur total ! J'ai découvert cette musique ou plutôt ce groupe cet été, avant j'étais quelqu'un qui détestait la k-pop et depuis cet été j'adore !! Et depuis j'en écoute tout les jours au point où ils sont top 2 de mes écoutes de l'année. J'ai été les voirs en juillet avec mon bestie Jimmy ! ",
+        "opinion": "Coup de cœur total ! J'ai découvert cette musique ou plutôt ce groupe durant l'été 2025, avant j'étais quelqu'un qui détestait la k-pop et depuis cet été ci j'adore !! J'ai été les voirs en juillet 2025 avec mon ami ! ",
         "image": "./image/5-STAR.jpg",
         "audio": "./musique/s-class_straykids.mp3",
         "droit": "Tous droits réservés  © 2024 JYP Entertainement",
@@ -49,5 +49,4 @@
         "link2": "https://open.spotify.com/intl-fr/track/1W26qte2Zepm5jKbDSTSf6",
         "link3": "https://deezer.page.link/b3GUoKmgVMZWRWFA7"
     }
-   
 ]
